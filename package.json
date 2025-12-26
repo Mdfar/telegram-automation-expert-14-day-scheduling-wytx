@@ -1,0 +1,1 @@
+{ "name": "staqlt-telegram-14day-loop", "version": "1.0.0", "description": "High-performance Telegram automation loop using n8n and Node.js logic", "main": "index.js", "scripts": { "start": "node index.js" }, "dependencies": { "axios": "^1.6.0", "dotenv": "^16.3.1", "node-cron": "^3.0.3" } }
